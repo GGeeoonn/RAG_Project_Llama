@@ -20,7 +20,7 @@ This repository contains a Retrieval-Augmented Generation (RAG) application buil
 1. Install the required Python packages:
 
     ```bash
-    pip install -r total_requirements.txt
+    pip install -r requirements.txt
     ```
 
 2. Install Ollama from [official Ollama website](https://ollama.com/).
